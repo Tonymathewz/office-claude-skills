@@ -1,0 +1,6 @@
+From: bookings@example-school.test
+Date: Tue 11 Nov 2026 09:14
+Subject: RE: Trip to the museum 20 Nov
+
+Hi, please change the return time from 14:00 to 15:30. Pax is now 32 (28 students + 4 teachers).
+Thanks, Ms Example
