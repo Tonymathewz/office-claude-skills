@@ -13,6 +13,7 @@ Every skill here comes from real daily work in a busy transport office and has b
 | [email-approval-queue](skills/email-approval-queue/SKILL.md) | Reads incoming booking or change emails, turns each into a proposed change, shows you a preview, and applies nothing until you say yes. |
 | [notice-to-route-mapper](skills/notice-to-route-mapper/SKILL.md) | Turns "closed on Friday" / "early finish on the 12th" notices into a list of the routes, jobs or shifts they affect, kept in an append-only calendar. |
 | [monthly-summary-report](skills/monthly-summary-report/SKILL.md) | Builds a clean, printable month-end summary (Word or PDF) from a list of jobs, filed into the right month folder. |
+| [office-bookkeeping](skills/office-bookkeeping/README.md) | **New.** Worldwide bookkeeping for non-accountants: supplier invoices, sales invoices and credit notes, chasing payments, bank reconciliation and the month-end pack for your accountant. 27 country profiles with extra depth for the Middle East and Asia. |
 
 More are coming. See [Ideas](#ideas-for-future-skills).
 
@@ -45,7 +46,6 @@ Each skill has a **Your setup** block with placeholders like `<YOUR CALENDAR FIL
 - Subcontractor job sheet with a map link for every stop
 - Weekly roster / duty sheet builder
 - "Compare the new version of this spreadsheet with the old one" checker
-- Bank statement → categorised monthly expense report
 
 Have one of your own? Pull requests are welcome. Please use fake sample data only, never real customer names, phone numbers or company records.
 

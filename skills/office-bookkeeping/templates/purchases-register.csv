@@ -1,0 +1,1 @@
+doc_id,status,doc_type,supplier,supplier_tax_id,invoice_no,issue_date,supply_date,period,currency,net_total,tax_total,gross_total,tax_by_rate,fx_rate,fx_date,fx_source,gross_base_currency,category,tax_claimable,due_date,paid_amount,balance,paid_date,payment_ref,replaces_doc_id,original_file,filed_copy,confidence,flags
