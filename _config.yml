@@ -1,0 +1,5 @@
+title: Office Claude Skills
+description: "Free Claude skills for bookkeeping, invoices, VAT and approve-first email, no coding needed."
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag

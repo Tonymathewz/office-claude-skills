@@ -2,6 +2,8 @@
 
 **Claude skills for people who run offices, not code.**
 
+These are Claude Agent Skills (SKILL.md files) that work in Claude.ai, the Claude desktop app and Claude Code.
+
 Most skill collections on GitHub are written for programmers. This one is for the admin clerk, the dispatcher, the office coordinator: people who live in email, spreadsheets and Word documents and want Claude to take the repetitive work off their desk without ever acting behind their back.
 
 Every skill here comes from real daily work in a busy transport office and has been stripped down to a general version you can adapt to your own business.
