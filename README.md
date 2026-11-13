@@ -1,0 +1,56 @@
+# Office Claude Skills
+
+**Claude skills for people who run offices, not code.**
+
+Most skill collections on GitHub are written for programmers. This one is for the admin clerk, the dispatcher, the office coordinator: people who live in email, spreadsheets and Word documents and want Claude to take the repetitive work off their desk without ever acting behind their back.
+
+Every skill here comes from real daily work in a busy transport office and has been stripped down to a general version you can adapt to your own business.
+
+## The skills
+
+| Skill | What it does |
+|---|---|
+| [email-approval-queue](skills/email-approval-queue/SKILL.md) | Reads incoming booking or change emails, turns each into a proposed change, shows you a preview, and applies nothing until you say yes. |
+| [notice-to-route-mapper](skills/notice-to-route-mapper/SKILL.md) | Turns "closed on Friday" / "early finish on the 12th" notices into a list of the routes, jobs or shifts they affect, kept in an append-only calendar. |
+| [monthly-summary-report](skills/monthly-summary-report/SKILL.md) | Builds a clean, printable month-end summary (Word or PDF) from a list of jobs, filed into the right month folder. |
+
+More are coming. See [Ideas](#ideas-for-future-skills).
+
+## The rules every skill follows
+
+1. **You approve, Claude applies.** Nothing is changed, sent or deleted without a preview and your yes.
+2. **Never guess.** If something isn't in your map or your data, Claude asks instead of inventing a route number, a date or a customer.
+3. **Keep history.** New information is added below old information. Nothing is silently overwritten.
+4. **Leave a trail.** Every change carries a short note: what changed, why, the date of the email, and who sent it.
+5. **Print-friendly by default.** Documents are designed to print well in black and white with minimal ink.
+
+## How to install
+
+**Claude.ai / Claude desktop app**
+1. Download the skill folder you want (for example `skills/email-approval-queue`).
+2. Zip the folder.
+3. In Claude, go to **Settings → Capabilities → Skills** and upload the zip.
+
+**Claude Code**
+Copy the skill folder into `~/.claude/skills/` (for all projects) or `.claude/skills/` inside a project.
+
+Then edit the **"Your setup"** section at the top of each `SKILL.md`. That is where your folder names, file names and business rules go.
+
+## Make it yours
+
+Each skill has a **Your setup** block with placeholders like `<YOUR CALENDAR FILE>`. Fill them in once and the rest of the skill works as written. The `examples/` folders contain small, fake sample files so you can see the expected format.
+
+## Ideas for future skills
+
+- Subcontractor job sheet with a map link for every stop
+- Weekly roster / duty sheet builder
+- "Compare the new version of this spreadsheet with the old one" checker
+- Bank statement → categorised monthly expense report
+
+Have one of your own? Pull requests are welcome. Please use fake sample data only, never real customer names, phone numbers or company records.
+
+## License
+
+MIT. Use it, change it, share it.
+
+Made by [Tony Mathew](https://github.com/Tonymathewz).
