@@ -1,0 +1,5 @@
+date,route_or_client,job,status
+2026-10-01,Sample Route A,AM run,DONE
+2026-10-01,Sample Route A,PM run,DONE
+2026-10-02,Sample Client B,Airport transfer,DONE
+2026-10-03,Sample Route A,AM run,CANCELLED
