@@ -12,6 +12,10 @@ One skill, five modules:
 | 4. Bank reconciliation | First checks that the statement adds up, then matches every line to a document, lists missing receipts and closes the month to a zero difference. |
 | 5. Month-end pack | Builds a tidy folder for your accountant: registers, tax summary per rate, missing documents and numbered questions. |
 
+## See it in action
+
+**[Sample run (UAE)](examples/sample-run-uae.md)**: five fake supplier documents go in. One is a duplicate photo, one has changed bank details, one doesn't add up, one is missing the buyer's TRN and one is just a quotation. See exactly what the skill flags, what it asks, and what it writes after approval.
+
 ## Why it's different
 
 Built after reviewing the existing bookkeeping skills and their weak spots:
