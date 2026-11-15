@@ -1,0 +1,19 @@
+{
+  "id": "T08",
+  "title": "India: intra-state supply charged IGST instead of CGST+SGST",
+  "doc_type": "tax_invoice",
+  "net": 10000.0,
+  "tax": 1800.0,
+  "gross": 11800.0,
+  "claimable": [
+    "NO",
+    "CHECK",
+    "ASK ACCOUNTANT"
+  ],
+  "required_flags": [
+    "TAX_TYPE_MISMATCH"
+  ],
+  "forbidden_flags": [
+    "ARITHMETIC_MISMATCH"
+  ]
+}

@@ -1,0 +1,8 @@
+RECHNUNG / INVOICE
+Example Software GmbH, Berlin, Germany. USt-IdNr. DE123456789
+Customer: Example Transport Ltd, Mosta, Malta. VAT MT12345678
+Invoice no: 2026-4471     Date: 03.11.2026
+Route-planning software, annual licence      640,00 EUR
+VAT                                            0,00 EUR
+Total                                        640,00 EUR
+Reverse charge - VAT to be accounted for by the recipient (Art. 196 Directive 2006/112/EC)

@@ -1,0 +1,8 @@
+TAX INVOICE
+Desert Fleet Services LLC, Jebel Ali, Dubai. TRN 100345678900003
+Bill to: Example Logistics
+Invoice no: INV-0457        Date: 04/11/2026
+Description                         Amount (AED)
+Coach maintenance, October               12,000.00
+VAT 5%                                      600.00
+Total                                    12,600.00

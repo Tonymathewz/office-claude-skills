@@ -1,0 +1,17 @@
+{
+  "id": "T07",
+  "title": "Malta: fiscal receipt used for a business purchase",
+  "doc_type": "receipt",
+  "net": 21.19,
+  "tax": 3.81,
+  "gross": 25.0,
+  "claimable": [
+    "NO"
+  ],
+  "required_flags": [
+    "NOT_TAX_INVOICE"
+  ],
+  "forbidden_flags": [
+    "ARITHMETIC_MISMATCH"
+  ]
+}

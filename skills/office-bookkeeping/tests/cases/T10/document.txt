@@ -1,0 +1,8 @@
+請求書 INVOICE
+Example Repair Shop (sole trader), Osaka
+To: Example Bus K.K.
+Invoice no: 2026-118     Date: 2026/11/05
+Bus seat repair                    50,000
+Consumption tax 10%                 5,000
+Total JPY                          55,000
+(no registration number shown)

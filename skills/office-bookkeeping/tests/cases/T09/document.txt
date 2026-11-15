@@ -1,0 +1,7 @@
+فاتورة ضريبية مبسطة  SIMPLIFIED TAX INVOICE
+Example Stationery Est., Riyadh. VAT 300987654300003
+Invoice no: 55120      Date: 2026-11-08 14:22
+Printer paper                 200.00
+VAT 15%                        30.00
+Total SAR                     230.00
+(no QR code printed)

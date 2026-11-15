@@ -1,0 +1,18 @@
+{
+  "id": "T02",
+  "title": "UAE: over AED 10,000 without our TRN",
+  "doc_type": "tax_invoice",
+  "net": 12000.0,
+  "tax": 600.0,
+  "gross": 12600.0,
+  "claimable": [
+    "NO",
+    "ASK ACCOUNTANT"
+  ],
+  "required_flags": [
+    "BUYER_TAX_ID_MISSING"
+  ],
+  "forbidden_flags": [
+    "ARITHMETIC_MISMATCH"
+  ]
+}

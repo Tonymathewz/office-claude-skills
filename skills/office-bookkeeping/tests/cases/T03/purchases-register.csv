@@ -1,0 +1,2 @@
+doc_id,status,doc_type,supplier,supplier_tax_id,invoice_no,issue_date,currency,net_total,tax_total,gross_total
+P-2026-11-001,NEW,tax_invoice,Desert Fleet Services LLC,100345678900003,INV-0457,2026-11-04,AED,12000.00,600.00,12600.00

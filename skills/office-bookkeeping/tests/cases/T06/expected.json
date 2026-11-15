@@ -1,0 +1,16 @@
+{
+  "id": "T06",
+  "title": "Pro-forma is not an invoice",
+  "doc_type": "proforma",
+  "net": 3400.0,
+  "tax": 170.0,
+  "gross": 3570.0,
+  "claimable": [
+    "N/A",
+    "NO"
+  ],
+  "required_flags": [
+    "NOT_AN_INVOICE"
+  ],
+  "forbidden_flags": []
+}

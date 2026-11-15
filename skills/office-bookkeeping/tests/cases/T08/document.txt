@@ -1,0 +1,8 @@
+TAX INVOICE
+Example Coach Parts Pvt Ltd, Peenya, Bengaluru, Karnataka. GSTIN 29AAACE1234F1Z2
+Bill to: Example Travels Pvt Ltd, Bengaluru, Karnataka. GSTIN 29AAACB5678K1Z6
+Place of supply: Karnataka (29)      Reverse charge: No
+Invoice no: ECP/26-27/0815     Date: 06/11/2026
+HSN 870899  Brake pads (set)   4 x 2,500.00     10,000.00
+IGST 18%                                        1,800.00
+Total INR                                      11,800.00

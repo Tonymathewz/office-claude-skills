@@ -1,0 +1,9 @@
+TAX INVOICE
+Gulf Office Supplies LLC, Al Quoz, Dubai, UAE. TRN 100234567800003
+Bill to: Example Logistics LLC, Business Bay, Dubai. TRN 100123456700003
+Invoice no: GOS-2201        Date: 02/11/2026   Date of supply: 02/11/2026
+Description           Qty  Unit price  VAT   Amount (AED)
+A4 paper, box of 5     10      100.00   5%      1,000.00
+Subtotal (excl. VAT)                            1,000.00
+VAT 5%                                             50.00
+Total (AED)                                     1,050.00

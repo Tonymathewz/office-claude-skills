@@ -1,0 +1,19 @@
+{
+  "id": "T01",
+  "title": "UAE: clean tax invoice",
+  "doc_type": "tax_invoice",
+  "net": 1000.0,
+  "tax": 50.0,
+  "gross": 1050.0,
+  "claimable": [
+    "YES"
+  ],
+  "required_flags": [],
+  "forbidden_flags": [
+    "ARITHMETIC_MISMATCH",
+    "BUYER_TAX_ID_MISSING",
+    "POSSIBLE_DUPLICATE",
+    "BANK_DETAILS_CHANGED",
+    "NOT_AN_INVOICE"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "T10",
+  "title": "Japan: supplier has no registration (T) number",
+  "doc_type": "invoice",
+  "net": 50000,
+  "tax": 5000,
+  "gross": 55000,
+  "claimable": [
+    "PARTIAL",
+    "PARTIAL 70%",
+    "70%"
+  ],
+  "required_flags": [
+    "NO_REGISTRATION_NUMBER"
+  ],
+  "forbidden_flags": [
+    "ARITHMETIC_MISMATCH"
+  ]
+}

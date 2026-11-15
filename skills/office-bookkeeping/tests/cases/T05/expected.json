@@ -1,0 +1,17 @@
+{
+  "id": "T05",
+  "title": "Supplier bank details changed",
+  "doc_type": "tax_invoice",
+  "net": 400.0,
+  "tax": 20.0,
+  "gross": 420.0,
+  "claimable": [
+    "YES"
+  ],
+  "required_flags": [
+    "BANK_DETAILS_CHANGED"
+  ],
+  "forbidden_flags": [
+    "ARITHMETIC_MISMATCH"
+  ]
+}

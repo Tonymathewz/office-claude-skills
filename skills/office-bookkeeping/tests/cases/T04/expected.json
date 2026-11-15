@@ -1,0 +1,16 @@
+{
+  "id": "T04",
+  "title": "Totals don't add up",
+  "doc_type": "tax_invoice",
+  "net": 800.0,
+  "tax": 40.0,
+  "gross": 850.0,
+  "claimable": [
+    "CHECK",
+    "ASK ACCOUNTANT"
+  ],
+  "required_flags": [
+    "ARITHMETIC_MISMATCH"
+  ],
+  "forbidden_flags": []
+}

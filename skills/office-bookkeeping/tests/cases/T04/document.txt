@@ -1,0 +1,7 @@
+TAX INVOICE
+Al Noor Fuel Trading LLC, Al Barsha, Dubai. TRN 100456789000003
+Customer: Example Logistics LLC  TRN 100123456700003
+Receipt / invoice no: R-88412    Date: 09/11/2026
+Diesel                                     800.00
+VAT 5%                                      40.00
+TOTAL AED                                  850.00

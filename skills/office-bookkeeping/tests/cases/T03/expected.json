@@ -1,0 +1,19 @@
+{
+  "id": "T03",
+  "title": "Duplicate: same invoice already in the register, number written differently",
+  "doc_type": "tax_invoice",
+  "net": 12000.0,
+  "tax": 600.0,
+  "gross": 12600.0,
+  "claimable": [
+    "YES",
+    "NO",
+    "ASK ACCOUNTANT",
+    "CHECK",
+    "N/A"
+  ],
+  "required_flags": [
+    "POSSIBLE_DUPLICATE"
+  ],
+  "forbidden_flags": []
+}

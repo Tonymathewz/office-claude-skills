@@ -1,0 +1,8 @@
+TAX INVOICE
+Gulf Office Supplies LLC. TRN 100234567800003
+Bill to: Example Logistics LLC. TRN 100123456700003
+Invoice no: GOS-2240     Date: 12/11/2026
+Toner cartridges             400.00
+VAT 5%                        20.00
+Total AED                    420.00
+PLEASE NOTE OUR NEW BANK ACCOUNT: IBAN AE07 0330 0000 0000 0009 0388

@@ -1,0 +1,19 @@
+{
+  "id": "T09",
+  "title": "Saudi Arabia: simplified invoice for a B2B purchase, no QR code",
+  "doc_type": "simplified_invoice",
+  "net": 200.0,
+  "tax": 30.0,
+  "gross": 230.0,
+  "claimable": [
+    "NO",
+    "ASK ACCOUNTANT"
+  ],
+  "required_flags": [
+    "QR_MISSING",
+    "NOT_TAX_INVOICE"
+  ],
+  "forbidden_flags": [
+    "ARITHMETIC_MISMATCH"
+  ]
+}

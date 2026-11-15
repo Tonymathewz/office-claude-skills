@@ -1,0 +1,16 @@
+{
+  "id": "T12",
+  "title": "Decimal commas and a day-first date",
+  "doc_type": "tax_invoice",
+  "net": 1234.5,
+  "tax": 222.21,
+  "gross": 1456.71,
+  "issue_date": "2026-06-05",
+  "claimable": [
+    "YES"
+  ],
+  "required_flags": [],
+  "forbidden_flags": [
+    "ARITHMETIC_MISMATCH"
+  ]
+}

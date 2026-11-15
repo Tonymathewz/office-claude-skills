@@ -1,0 +1,7 @@
+TAX INVOICE
+Example Motors Ltd, Qormi, Malta. VAT MT34567890
+Bill to: Example Transport Ltd, Mosta. VAT MT12345678
+Invoice no: EM-1190     Date: 05/06/2026
+Minibus service and parts         1.234,50
+VAT 18%                             222,21
+Total EUR                         1.456,71

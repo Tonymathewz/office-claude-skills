@@ -1,0 +1,18 @@
+{
+  "id": "T11",
+  "title": "Malta buyer, German supplier, reverse charge",
+  "doc_type": "tax_invoice",
+  "net": 640.0,
+  "tax": 0.0,
+  "gross": 640.0,
+  "claimable": [
+    "REVERSE CHARGE",
+    "ASK ACCOUNTANT"
+  ],
+  "required_flags": [
+    "REVERSE_CHARGE"
+  ],
+  "forbidden_flags": [
+    "ARITHMETIC_MISMATCH"
+  ]
+}
