@@ -16,7 +16,7 @@ One skill, five modules:
 
 **[Sample run (UAE)](examples/sample-run-uae.md)**: five fake supplier documents go in. One is a duplicate photo, one has changed bank details, one doesn't add up, one is missing the buyer's TRN and one is just a quotation. See exactly what the skill flags, what it asks, and what it writes after approval.
 
-**[Test set](tests/README.md)**: 12 fake documents from 6 countries, each with its correct answer written down in advance, plus a script that scores the skill. Run it after any change.
+**[Test set](tests/README.md)**: 12 fake documents from 6 countries, each with its correct answer written down in advance, plus a script that scores the skill. Run it after any change. **First blind run: 11/12** (details in the test README).
 
 ## Why it's different
 

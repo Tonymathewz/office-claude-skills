@@ -46,6 +46,11 @@ Run these for every document and list every failure:
 ### 4. Categorise
 Suggest an expense category from `suppliers.csv` history first, then from the description. Mark suggestions `CHECK` when the supplier is new. Keep categories simple (e.g. fuel, repairs, rent, utilities, office supplies, phone/internet, insurance, professional fees, travel, meals, bank charges, other) unless the accountant gave a chart of accounts in `setup.md`.
 
+### Document types and "claimable" values (use these words)
+- **Document type:** `tax invoice` (meets the country's tax-invoice rules, including a normal EU VAT invoice with reverse charge), `simplified invoice`, `invoice` (a commercial invoice that is *not* a valid tax invoice, e.g. from an unregistered supplier), `receipt`, `credit note`, `pro-forma` / `quotation` / `statement` (not invoices).
+- **Claimable:** `YES`, `NO - <reason>`, `PARTIAL <x>%` (where the profile allows partial credit), `REVERSE CHARGE`, `CHECK` (a figure needs confirming first), `ASK ACCOUNTANT` (tax treatment unclear), `N/A` (not a purchase document, or a duplicate that won't be recorded).
+- Fraud and duplicate flags don't change the tax answer. A valid invoice with changed bank details is still `YES` for tax, but it is held off the payment list.
+
 ### 5. Preview
 Show one table, problems first:
 

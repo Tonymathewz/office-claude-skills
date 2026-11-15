@@ -50,6 +50,14 @@ The skill writes flags in plain words for people. For the test, Claude maps them
 | `REVERSE_CHARGE` | Buyer must self-account the tax |
 | `FX_MISSING` | Foreign currency without the required rate or local-currency tax |
 
+## Document types
+
+`tax_invoice` meets the country's tax-invoice rules (a normal EU VAT invoice with "Reverse charge" counts). `simplified_invoice` is the country's short form. `invoice` is a commercial invoice that is **not** a valid tax invoice (e.g. Japan without a T-number). Then `receipt`, `credit_note` and `proforma`.
+
+## First blind run
+
+**11 of 12 passed** (15 Nov 2026, Claude Opus 5.5). A fresh agent ran the skill on these cases without seeing the answers. Every flag, amount and tax decision was right. The one miss (T11) was the document type: it called a German reverse-charge invoice `invoice` instead of `tax_invoice`. That happened because the test didn't yet define document types. The definitions above were added after this run, along with matching wording in Module 1.
+
 ## How to run it
 
 1. Give Claude the `office-bookkeeping` skill and this `tests` folder.
