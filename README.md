@@ -16,8 +16,11 @@ Every skill here comes from real daily work in a busy transport office and has b
 | [notice-to-route-mapper](skills/notice-to-route-mapper/SKILL.md) | Turns "closed on Friday" / "early finish on the 12th" notices into a list of the routes, jobs or shifts they affect, kept in an append-only calendar. |
 | [monthly-summary-report](skills/monthly-summary-report/SKILL.md) | Builds a clean, printable month-end summary (Word or PDF) from a list of jobs, filed into the right month folder. |
 | [office-bookkeeping](skills/office-bookkeeping/README.md) | **New.** Worldwide bookkeeping for non-accountants: supplier invoices, sales invoices and credit notes, chasing payments, bank reconciliation and the month-end pack for your accountant. 27 country profiles with extra depth for the Middle East and Asia. |
+| [build-coach](skills/build-coach/SKILL.md) | **New.** Builds any project or office automation with you one step at a time from a saved plan, and checks each step before moving on. |
+| [business-advisor](skills/business-advisor/SKILL.md) | **New.** Practical frameworks for pricing, launching, local marketing, social content, sales follow-up and "is this worth building?" |
+| [improve-system](skills/improve-system/SKILL.md) | **New.** A weekly review of your Claude setup: finds overlapping or outdated skills and repeated corrections, and recaps your week. |
 
-More are coming. See [Ideas](#ideas-for-future-skills).
+More are coming. See [Ideas](#ideas-for-future-skills), or [add your own](CONTRIBUTING.md).
 
 ## The rules every skill follows
 
@@ -49,7 +52,11 @@ Each skill has a **Your setup** block with placeholders like `<YOUR CALENDAR FIL
 - Weekly roster / duty sheet builder
 - "Compare the new version of this spreadsheet with the old one" checker
 
-Have one of your own? Pull requests are welcome. Please use fake sample data only, never real customer names, phone numbers or company records.
+## Contributing
+
+**Have a skill you use at your desk every day? Add it here.** You don't need to code: the whole process works in the GitHub website. See [CONTRIBUTING.md](CONTRIBUTING.md) for the steps and the checklist, or pick an issue labelled [good first issue](https://github.com/Tonymathewz/office-claude-skills/labels/good%20first%20issue).
+
+Please use fake sample data only, never real customer names, phone numbers or company records.
 
 ## License
 
